@@ -28,7 +28,7 @@ public class ConexaoBD {
 		try {
 			con.close();
 		} catch (Exception e) {
-			JOptionPane.showMessageDialog(null, "(n°3) Erro:" + e);
+			JOptionPane.showMessageDialog(null, "(n°4444) Erro:" + e);
 		}
 	}
  }
